@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/strictsleep.iml" filepath="$PROJECT_DIR$/.idea/modules/strictsleep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/strictsleep_main.iml" filepath="$PROJECT_DIR$/.idea/modules/strictsleep_main.iml" group="strictsleep" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/strictsleep_test.iml" filepath="$PROJECT_DIR$/.idea/modules/strictsleep_test.iml" group="strictsleep" />
+    </modules>
+  </component>
+</project>
